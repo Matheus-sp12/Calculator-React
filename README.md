@@ -19,4 +19,4 @@ You may also see any lint errors in the console.
 Desenvolvi este projeto com o obejtivo de colocar en pratica meus conhecimentos,
 que apredendi na minha especilização na EBAC
 
-<img src="../src/redImg.png" alt="">
+![imagem do projeto](./src/redImg.png)
